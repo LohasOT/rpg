@@ -1,0 +1,31 @@
+
+ Name: BigMike
+       Race: Male
+       Sex: Human
+       Weapon: Two-Handed Sword
+       Main Stat: Strength
+       Hitpoints: 120 HP 
+ Name: SmolMike
+       Race: Female
+       Sex: Elf
+       Weapon: Bow and Daggers
+       Main Stat: Dexterity
+       Hitpoints: 100 HP 
+ Name: Mike2017
+       Race: Female
+       Sex: Gnome
+       Weapon: Staff
+       Main Stat: Intelligence
+       Hitpoints: 80 HP 
+ Name: DEEZ NUTS
+       Race: Male
+       Sex: Dwarf
+       Weapon: Two-Handed Sword
+       Main Stat: Strength
+       Hitpoints: 120 HP 
+ Name: DEEZ NUTZ
+       Race: Female
+       Sex: Dwarf
+       Weapon: Two-Handed Sword
+       Main Stat: Strength
+       Hitpoints: 120 HP 
